@@ -5,7 +5,7 @@ name: Lowlighter Metrics
 on:
   schedule:
     # 12AM EST (midnight)
-    - cron: '23 11 * * *'
+    - cron: '30 11 * * *'
   workflow_dispatch:
 
 jobs:
