@@ -11,7 +11,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    if: "github.repository == 'Nathan13888/Nathan13888'"
+    if: "github.repository == 'Rayyan-K/Rayyan-K'"
     steps:
       - name: 🙋 Introduction plugin
         uses: lowlighter/metrics@latest
